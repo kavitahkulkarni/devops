@@ -1,6 +1,1 @@
-[submodule "devops.wiki"]
-	path = devops.wiki
-	url = git@github.com:kavitahkulkarni/devops.wiki.git
-[submodule "docs"]
-	path = docs
-	url = https://github.com/kavitahkulkarni/devops.wiki.git
+
